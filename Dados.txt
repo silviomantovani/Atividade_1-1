@@ -1,3 +1,2 @@
 Nome: Gustavo
-Sobrenome: D'Elia
 Email: gustavodelia@uni9.edu.br
